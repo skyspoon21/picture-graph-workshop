@@ -1,0 +1,1 @@
+import"./config-B8pXk6fz.js";document.getElementById(`form-link`);
